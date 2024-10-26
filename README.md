@@ -1,4 +1,4 @@
-# Testing Jenkins Integration with webhook
+# Jenkins Integration with webhook
 
 ## Tooling Website
 
