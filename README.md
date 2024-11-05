@@ -1,4 +1,4 @@
-# Jenkins Integration with webhook
+# Jenkins Integration with webhook (steghub)
 
 ## Tooling Website
 
